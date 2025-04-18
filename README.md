@@ -1,5 +1,5 @@
 ## Hello!
-- 👋 I'm Dan Farnham.
+- 👋 I'm Dan Farnham
 - 👨‍🎓 I'm currently studying Games Comuting at Northumbria University <br>
 - 🔭 I'm learning C++ and 3D maths <br>
 - 🌱 I'm currently working on a a top-down space game inspired by Elite (1984) for my Games Programming 2 Assignment <br>
