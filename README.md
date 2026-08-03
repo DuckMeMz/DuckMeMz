@@ -14,5 +14,5 @@ I work mainly in C++ and Unreal Engine, and have industry experience implementin
 - **Tools:** Git, Perforce, Visual Studio
 
 ### 📁 Links
-- 🎮 **Portfolio:** https://duckmemz.github.io/
+- 🎮 **Portfolio:** https://danfarnham.dev
 - 📄 **CV:** https://drive.google.com/file/d/12ptyJqBauiJUpkNHk0LewvDObnaYB7-A/view
